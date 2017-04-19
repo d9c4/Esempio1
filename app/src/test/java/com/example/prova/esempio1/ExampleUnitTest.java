@@ -1,4 +1,4 @@
-package com.example.dav.esempio1;
+package com.example.prova.esempio1;
 
 import org.junit.Test;
 
